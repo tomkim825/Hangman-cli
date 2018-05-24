@@ -15,7 +15,7 @@ var guessed= [];
 //.... and this is where the fun begins..... //
 
 //======[  START  ]=========
-//  clearScreen() run every guess  =
+//  clearScreen() run every guess  
 //======[  START  ]=========
 function clearScreen(){
     // clears the console before displaying result [windows powershell users]
@@ -26,7 +26,7 @@ function clearScreen(){
     console.log('-------------Hangman------------------\n')
 }
 //======[   END   ]=========
-//  clearScreen() run every guess  =
+//  clearScreen() run every guess  
 //======[   END   ]=========
 
 //----- initial screen setup before user enters 1st letter-----//
